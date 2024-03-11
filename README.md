@@ -38,7 +38,28 @@ Atraves dos dados dos anos de 2018 e 2019 criar predições futuras para ver a q
   - Algoritmo Prophet
 
 * [Licença](#licença)
+  0.1
 * [Conclusão](#conclusão)
+
+![image](https://github.com/laurindodumba/Desafio-ENACON/assets/38964642/2297b3b4-0735-4f04-8b2a-85416406e6cc)
+
+![image](https://github.com/laurindodumba/Desafio-ENACON/assets/38964642/4c744ffe-043d-4b8f-a1c3-d6075cf764fc)
+
+
+![image](https://github.com/laurindodumba/Desafio-ENACON/assets/38964642/1023794f-8791-48e3-bb49-1248a968529f)
+
+![image](https://github.com/laurindodumba/Desafio-ENACON/assets/38964642/615ef7b3-c642-4707-b44d-b61af27d88ab)
+
+![image](https://github.com/laurindodumba/Desafio-ENACON/assets/38964642/9d65c1fb-29bb-49cd-8725-85ccbcd21558)
+
+
+
+![image](https://github.com/laurindodumba/Desafio-ENACON/assets/38964642/6846f3ce-d907-4efa-95ce-a553bc34dbab)
+
+
+
+
+![image](https://github.com/laurindodumba/Desafio-ENACON/assets/38964642/1cec5827-6cc9-46f1-8e07-f2900b978bb1)
 
 
 # Autor:
